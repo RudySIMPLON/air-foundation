@@ -1,3 +1,8 @@
+footer{
+	background-color: grey;}
+li{
+	list-style: none;
+	text-decoration: none;}
 .hero {
 	background-image: url("https://unsplash.it/1500/600?image=867");
 	background-size: 100%;
@@ -8,3 +13,7 @@ body {
 	margin-top: 2em;}
 .orbit-slide {
 	height: 600px;}
+
+	background-color: #F5F3EF;}
+
+
